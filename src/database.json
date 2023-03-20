@@ -1,0 +1,74 @@
+{
+    "config": {
+        "dayPeriod": {
+            "start": 6,
+            "end": 23
+        },
+        "daysLabels": ["Lundi", "Mardi", "Mercredi", "Jeudi", "Vendredi", "Samedi", "Dimanche"]
+    },
+    "data": [
+        {
+            "day": "Lundi",
+            "activities": {
+                "6": "promenade 🚶‍♂️",
+                "19": "solfège + guitare 🎸"
+            },
+            "tasks": ["aspirateur 🧹", "poubelles 🗑️"],
+            "meal": "PDT"
+        },
+        {
+            "day": "Mardi",
+            "activities": {
+                "6": "promenade 🚶‍♂️",
+                "18": "muscu 🏋️‍♂️"
+            },
+            "tasks": [],
+            "meal": "riz"
+        },
+        {
+            "day": "Mercredi",
+            "activities": {
+                "6": "promenade 🚶‍♂️",
+                "17": "courses 🛒"
+            },
+            "tasks": ["poussières 😶‍🌫️", "aspirateur 🧹", "eau 🫗"],
+            "meal": "pâtes"
+        },
+        {
+            "day": "Jeudi",
+            "activities": {
+                "6": "promenade 🚶‍♂️",
+                "18": "muscu 🏋️‍♂️"
+            },
+            "tasks": [],
+            "meal": "végé"
+        },
+        {
+            "day": "Vendredi",
+            "activities": {
+                "6": "promenade 🚶‍♂️",
+                "18": "tir à l'arc 🎯",
+                "19": "espagnol 📚"
+            },
+            "tasks": [],
+            "meal": "quiche"
+        },
+        {
+            "day": "Samedi",
+            "activities": {
+                "15": "vélo 🚴‍♂️",
+                "21": "promenade 🚶‍♂️"
+            },
+            "tasks": [],
+            "meal": "pizza / lasagne"
+        },
+        {
+            "day": "Dimanche",
+            "activities": {
+                "21": "promenade 🚶‍♂️"
+            },
+            "tasks": [],
+            "meal": "panade"
+        }
+    ]
+}
